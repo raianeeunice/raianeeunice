@@ -2,7 +2,6 @@
 
 - 💻 Estudando sobre: Golang, Python, JS, Typescrip, Angular, SQL.
 - 📚 Estudante de Análise e Desenvolvimento de Sistemas no IFS-Aracaju.
-- 👩 Apelido: Ray.
 - ✨ Em constante aprendizado... 
 
 <div align="center">
