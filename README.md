@@ -1,6 +1,6 @@
 ### Olá, pessoal! Sou Raiane Eunice 👋
 
-- 💻 Estudando sobre: Golang, Python, JS, Typescrip, Angular, SQL.
+- 💻 Estudando sobre: Golang, Python, Node, JS, Typescrip, Angular, SQL.
 - 📚 Estudante de Análise e Desenvolvimento de Sistemas no IFS-Aracaju.
 - ✨ Em constante aprendizado... 
 
