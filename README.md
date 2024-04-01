@@ -1,7 +1,8 @@
 ### Olá, pessoal! Sou Raiane Eunice 👋
 
 - 💻 Estudando sobre: Golang, Node, JS, Typescrip, Nest, Angular, SQL...
-- 📚 Estudante de Análise e Desenvolvimento de Sistemas no IFS-Aracaju.
+- 📚 Graduada em Análise e Desenvolvimento de Sistemas no IFS-Aracaju.
+- 📚 Estudante de mestrado em Engenharia de Software na UFS.
 - ✨ Em constante aprendizado... 
 
 <div align="center">
